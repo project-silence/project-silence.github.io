@@ -1,6 +1,7 @@
 #### [Saga · The Circle] — Press Kit ####
 
-------------------------------------------------------------------------------------------------A Note from "silence"
+------------------------------------------------------------------------------------------------
+A Note from "silence"
 ------------------------------------------------------------------------------------------------
 
 [Saga · The Circle] is built upon a belief in the player’s freedom of interpretation, imagination, and immersion born through reading.
@@ -29,7 +30,8 @@ Created by: 	Sey — Director · Writer · Artist · Composer · Programmer
 
 
 
-------------------------------------------------------------------------------------------------About the Game
+------------------------------------------------------------------------------------------------
+About the Game
 ------------------------------------------------------------------------------------------------
 
 ## 🛡️ Build the Round Table, Watch It Break ##
@@ -370,7 +372,7 @@ Media
 Trailers
 
 - Youtube:
-https://youtu.be/tqqHMIIZf-g
+https://youtu.be/bq19xqQj4-o
 
 
 
